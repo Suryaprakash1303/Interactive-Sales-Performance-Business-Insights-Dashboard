@@ -71,8 +71,19 @@ Example:
 ## 👨‍💻 Author
 **Surya Prakash**
 
+
 Aspiring Data Analyst | Power BI | SQL | Python | Excel
 
 ---
 
 ⭐ If you find this project useful, feel free to explore the repository!
+<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/7f0b6ce5-b802-458c-85d2-4c9a42c51ddd" />
+<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/05d52af8-7b81-48e4-9749-1d46fae0e1b7" />
+<img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/d5b793bd-075a-4499-a5ce-016b3983dd15" />
+<img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/1c6f2989-ceca-44ba-ae1a-c29d2f271fa4" />
+<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/cbfade69-657d-450f-b29f-ad7e9a95a87a" />
+
+
+
+
+
