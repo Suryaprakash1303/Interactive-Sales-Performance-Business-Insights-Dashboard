@@ -1,0 +1,2 @@
+# Interactive-Sales-Performance-Business-Insights-Dashboard
+An interactive Power BI dashboard to analyze sales performance, profitability, product categories, regional performance, and sales channels.Created KPI cards and interactive visualizations to track key business metrics and identify sales trends.Implemented interactive slicers, bookmarks, and page navigation to enable dynamic data exploration.
